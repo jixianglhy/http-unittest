@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/finedata.iml" filepath="$PROJECT_DIR$/.idea/finedata.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../kara/.idea/kara.iml" filepath="$PROJECT_DIR$/../kara/.idea/kara.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../yoyo_jiekou/.idea/yoyo_jiekou.iml" filepath="$PROJECT_DIR$/../yoyo_jiekou/.idea/yoyo_jiekou.iml" />
+    </modules>
+  </component>
+</project>
